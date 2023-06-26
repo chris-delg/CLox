@@ -1,0 +1,3 @@
+/cygdrive/c/Users/chris/OneDrive/desktop/CLox/build/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/chris/OneDrive/desktop/CLox/build/CMakeFiles/CLox.dir
+/cygdrive/c/Users/chris/OneDrive/desktop/CLox/build/CMakeFiles/edit_cache.dir

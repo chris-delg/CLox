@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wl,--enable-auto-import CMakeFiles/CLox.dir/src/chunk.c.o CMakeFiles/CLox.dir/src/debug.c.o CMakeFiles/CLox.dir/src/main.c.o CMakeFiles/CLox.dir/src/memory.c.o  -o CLox.exe -Wl,--out-implib,libCLox.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
