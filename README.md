@@ -1,2 +1,2 @@
 # CLox
-An interpreter for the CLox language 
+An interpreter built in c for the Lox programming language 
