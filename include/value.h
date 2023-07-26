@@ -5,6 +5,7 @@
 
 typedef double Value;
 
+//Dynamic array that represents values in the bytecode
 typedef struct {
     int capacity;
     int count;
